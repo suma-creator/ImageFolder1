@@ -19,7 +19,7 @@
 
     .slides {
       display: flex;
-      transition: transform; /* smooth sliding */
+      transition: transform; 
       height: 100%;
       width: 100vw;
     }
@@ -27,7 +27,7 @@
     .slides img {
       flex: 0 0 100vw; 
       height: 100vh;
-      object-fit: cover; /* makes images fit nicely */
+      object-fit: cover; 
     }
 
     .arrow {
